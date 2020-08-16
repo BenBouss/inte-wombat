@@ -1,0 +1,239 @@
+/* # UX */
+/* ## Header */
+.mainHeader {
+    height: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+}
+.sidebarHeader {
+    padding: 0 2.25rem;
+}
+.sidebarHeader .logo {
+    margin-right: 1rem;
+}
+.appType {
+    padding: .175rem .375rem;
+    font-size: .75rem;
+}
+.headerNav li a {
+    height: 2.5rem;
+    margin-right: 1rem;
+    padding: .5rem .875rem;
+    font-size: .875rem;
+}
+.searchBox {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 2.25rem 0 auto;
+}
+.searchBox form {
+    position: relative;
+}
+.searchBox form input {
+    width: 100%;
+    height: 2.25rem;
+    padding: 0 2.5rem 0 1rem;
+    font-size: 1rem;
+    border: none;
+}
+.searchBox form button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+.account {
+    margin-right: 2.25rem;
+    position: relative;
+}
+.accountIcon {
+    width: 2.25rem;
+    height: 2.25rem;
+    justify-content: center;
+}
+.accountInfo {
+    position: absolute;
+    top: 100%;
+    right: 100%;
+}
+
+/* ## Appmain */
+.appMain {
+    padding-top: 60px;
+}
+main {
+    padding-top: 1.5rem;
+}
+.appMain main > .row {
+    margin: 0;
+}
+.homeContent {
+    margin: 0 auto;
+}
+.summaryDoc {
+    margin-top: 3rem;
+}
+.summaryDoc h2 {
+    margin-bottom: .5rem;
+}
+.summaryDoc ul li {
+    margin-top: 1.5rem;
+}
+.logoThem {
+    width: 1.5rem;
+    margin-right: 1rem;
+}
+
+/* ### Sidebar */
+.colSommaire {
+    width: 28.125rem;
+    height: calc(100vh - 60px - 4.5rem);
+    padding: 0 2rem;
+    position: fixed;
+    top: calc(60px + 1.5rem);
+    left: 0;
+    overflow-y: scroll;
+}
+.currentDoc {
+    margin-bottom: 2rem;
+}
+.colSommaire ul li {
+    margin-top: 1rem;
+}
+.partItems .chapItems {
+    display: none;
+    margin: 1rem 0 2rem .75rem;
+    padding: 1rem 0 1rem 1.75rem;
+}
+.partItems .active ~ .chapItems {
+    display: block;
+}
+
+/* ### Page Partie*/
+.documentation h1 {
+    margin-bottom: 4rem;
+}
+.documentation .colContent {
+    min-height: calc(100vh - 60px - 3rem);
+    margin: 0 0 3rem 28.125rem;
+    padding: 3rem;
+}
+.docTitle {
+    margin-bottom: .5rem;
+    font-weight: 700;
+}
+.blockChapter {
+    margin-top: 5rem;
+}
+.blockChapter h2 {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+}
+.ucList .itemUC {
+    margin-top: 1rem;
+}
+.titleUC {
+    padding-bottom: .25rem;
+}
+.refInternet {
+    font-size: .875rem;
+}
+
+/* # Design */
+body {
+    background-color: var(--bg-main2-color);
+    color: var(--text-main-color);
+}
+li a.active {
+    font-weight: 600;
+    color: var(--main-doc-color);
+}
+.whiteBlock {
+    padding: 1.5rem;
+    border-radius: 1rem;
+    background-color: var(--bg-main1-color);
+    box-shadow: 0px 3px 6px rgba(26,32,44,0.08);
+}
+
+/* ## Header */
+.mainHeader {
+    background-color: var(--bg-main2-color);
+}
+.appType {
+    border-radius: .375rem;
+    background-color: var(--bg-main1-color);
+    color: var(--text-third-color);
+}
+.headerNav li a:before {
+    margin-right: .875rem;
+    font-family: "documentation-ico";
+    font-size: 1rem;
+    font-weight: 400;
+}
+.headerNav li.menuHome a:before {
+    content: "\e901";
+}
+.headerNav li.menuModeles a:before {
+    content: "\e900";
+}
+.searchBox form input {
+    border-radius: 3rem;
+    background-color: var(--bg-main1-color);
+    box-shadow: 0px 3px 6px rgba(26,32,44,0.08);
+}
+.searchBox form input:focus {
+    outline: none;
+}
+.searchBox form button {
+    border: none;
+    background: none;
+    color: var(--main-doc-color);
+}
+.searchBox form button:before {
+    content: '\e904';
+    font-family: 'documentation-ico';
+    font-size: 1rem;
+}
+.accountIcon {
+    border-radius: 50%;
+    font-weight: 600;
+    background-color: var(--main-doc-color);
+    color: var(--bg-main2-color);
+}
+
+/* ## Appmain */
+/* ### Page Partie */
+.docTitle {
+    color: var(--main-doc-color);
+}
+.blockChapter h2 {
+    border-bottom: 1px solid var(--bg-main2-color);
+}
+.itemUCOuter:before {
+    content: "\e900";
+    font-family: "documentation-ico";
+    font-size: 1.25rem;
+    padding-right: 1rem;
+}
+.refInternet  {
+    color: var(--main-doc-color);
+}
+.partItems .chapItems {
+    border-left: 1px solid var(--main-doc-color);    
+}
+.partItems .chapItems li a {
+    color: var(--text-third-color);
+}
+
+.colContent {
+    transition: all ease .5s;
+}
+[class^="col-"] {
+    transition: all ease .5s;
+}

@@ -1,0 +1,453 @@
+[
+    {
+        "Thematique": "Recrutement et embauche",
+        "Chapitre": [
+            {
+                "ChapTitre": "Recrutement",
+                "UC": [
+                    {
+                        "UCTitre": "Réagir à un besoin de recrutement dans l’urgence ",
+                        "UCRef": "SRH.01.1.010"
+                    },
+                    {
+                        "UCTitre": "Comment vérifier les références indiquées par un candidat à l'embauche ?",
+                        "UCRef": "SRH.01.1.020"
+                    },
+                    {
+                        "UCTitre": "Rompre une promesse d’embauche ",
+                        "UCRef": "SRH.01.1.030"
+                    },
+                    {
+                        "UCTitre": "Comment réagir si un salarié rompt son contrat de travail juste avant son démarrage ?",
+                        "UCRef": "SRH.01.1.040"
+                    }
+                ]
+            },
+            {
+                "ChapTitre": "Embauche",
+                "UC": [
+                    {
+                        "UCTitre": "Un salarié ne se présente pas au premier jour de son embauche",
+                        "UCRef": "SRH.01.2.010"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié a menti sur son CV ?",
+                        "UCRef": "SRH.01.2.020"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié n'a pas/plus de titre de séjour ?",
+                        "UCRef": "SRH.01.2.030"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié perd la certification requise pour exercer son métier ?",
+                        "UCRef": "SRH.01.2.040"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié tombe malade pendant sa période d'essai ?",
+                        "UCRef": "SRH.01.2.050"
+                    }
+                ]
+            }
+        ],
+        "NbUC" : 9,
+        "ThemIcon" : "assets/thems-illustration/recrutement.svg",
+        "Path": "recrutement-embauche"
+    },
+    {
+        "Thematique": "Temps de travail, absences, congés",
+        "Chapitre": [
+            {
+                "ChapTitre": "Temps de travail",
+                "UC": [
+                    {
+                        "UCTitre": "Comment modifier les horaires de travail d'un salarié ?",
+                        "UCRef": "SRH.02.1.010"
+                    },
+                    {
+                        "UCTitre": "Que faire lorqu'un salarié ne respecte pas les horaires de travail prescrits ?",
+                        "UCRef": "SRH.02.1.020"
+                    },
+                    {
+                        "UCTitre": "Réagir face à un outil en panne (+ coupure de courant ou de réseau, etc.) ?",
+                        "UCRef": "SRH.02.1.030"
+                    },
+                    {
+                        "UCTitre": "Gérer le passage à temps partiel thérapeutique d'un salarié : cas de refus de la nouvelle organisation horaire par le salarié",
+                        "UCRef": "SRH.02.1.040"
+                    }
+                ]
+            },
+            {
+                "ChapTitre": "Congés payés",
+                "UC": [
+                    {
+                        "UCTitre": "Que faire si un salarié ne prend pas ses congés payés ?",
+                        "UCRef": "SRH.02.2.010"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié refuse d'appliquer la date des congés payés que vous lui avez notifiée (y compris cas où le salarié vient travailler aux dates où il devait être en congé) ?",
+                        "UCRef": "SRH.02.2.020"
+                    },
+                    {
+                        "UCTitre": "Que faire quand un salarié ne se présente subitement plus à son poste (CDD ou CDI) ( y compris après une absence justifiée) ?",
+                        "UCRef": "SRH.02.2.030"
+                    },
+                    {
+                        "UCTitre": "Que faire quand un salarié exerce une autre activité pendant son absence (arrêt de travail, congés payés…) ?",
+                        "UCRef": "SRH.02.2.040"
+                    },
+                    {
+                        "UCTitre": "Comment réagir face à l'incarcération d'un salarié ?",
+                        "UCRef": "SRH.02.2.050"
+                    },
+                    {
+                        "UCTitre": "Comment répondre à une demande d’absence de dernière minute ?",
+                        "UCRef": "SRH.02.2.060"
+                    }
+                ]
+            }
+        ],
+        "NbUC" : 10,
+        "ThemIcon" : "assets/thems-illustration/temps-de-travail.svg",
+        "Path": "temps-de-travail"
+    },
+    {
+        "Thematique": "Evolution de carrière",
+        "Chapitre": [
+            {
+                "ChapTitre": "Promotion et évolution",
+                "UC": [
+                    {
+                        "UCTitre": "Mettre fin à une période probatoire insatisfaisante",
+                        "UCRef": "SRH.03.1.010"
+                    },
+                    {
+                        "UCTitre": "Réagir face au refus de signer un avenant au contrat de travail (y compris cas où l'avenant vient officialiser une situation existant depuis longtemps) ?",
+                        "UCRef": "SRH.03.1.020"
+                    }
+                ]
+            },
+            {
+                "ChapTitre": "Formation",
+                "UC": [
+                    {
+                        "UCTitre": "Que faire quand un salarié refuse obstinément de se rendre en formation ?",
+                        "UCRef": "SRH.03.2.010"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié ne s'est pas présenté  à la formation à laquelle vous l'avez inscrit ?",
+                        "UCRef": "SRH.03.2.020"
+                    }
+                ]
+            }
+        ]
+        ,
+        "NbUC" : 4,
+        "ThemIcon" : "assets/thems-illustration/evolution-carriere.svg",
+        "Path": "evolution-carriere"
+    },
+    {
+        "Thematique": "Discipline / execution du contrat",
+        "Chapitre": [
+            {
+                "ChapTitre": "Exécution du contrat",
+                "UC": [
+                    {
+                        "UCTitre": "Réagir à une altercation entre salariés",
+                        "UCRef": "SRH.04.1.010"
+                    },
+                    {
+                        "UCTitre": "Réagir face à un comportement dangereux d'un salarié (état d'ébriété, emprise de drogue ou de médicaments…)",
+                        "UCRef": "SRH.04.1.020"
+                    },
+                    {
+                        "UCTitre": "Que faire face à un refus d'un salarié d'éxecuter ses tâches ?",
+                        "UCRef": "SRH.04.1.030"
+                    },
+                    {
+                        "UCTitre": "Comment réagir en cas de suspicion de comportements déloyaux du salarié (concurrence déloyale, utisation d'internet non professionnelle, divulgation d'informations professionnelles…)",
+                        "UCRef": "SRH.04.1.040"
+                    },
+                    {
+                        "UCTitre": "Comment gérer un salarié qui passe son temps à utiliser son téléphone portable ?",
+                        "UCRef": "SRH.04.1.050"
+                    },
+                    {
+                        "UCTitre": "Que faire en cas d'absences injustifiées répétées ?",
+                        "UCRef": "SRH.04.1.060"
+                    },
+                    {
+                        "UCTitre": "Comment réagir face au non-respect de la neutralité dans l'entreprise ?",
+                        "UCRef": "SRH.04.1.070"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié conduit sans permis de conduire pour l'exécution de son travail ?",
+                        "UCRef": "SRH.04.1.080"
+                    },
+                    {
+                        "UCTitre": "Que faire lorsqu'on surprend un salarié en flagrant délit de vol ?",
+                        "UCRef": "SRH.04.1.090"
+                    },
+                    {
+                        "UCTitre": "Organiser une réunion pour calmer les esprits dans l’urgence ?",
+                        "UCRef": "SRH.04.1.100"
+                    },
+                    {
+                        "UCTitre": "Réagir face à des injures proférées par un salarié envers l’entreprise ",
+                        "UCRef": "SRH.04.1.110"
+                    },
+                    {
+                        "UCTitre": "Réagir lorsqu’un salarié ne respecte pas la clause de non-concurrence",
+                        "UCRef": "SRH.04.1.120"
+                    },
+                    {
+                        "UCTitre": "Réagir lorsqu’un salarié ne respecte pas la clause de secret professionnel ",
+                        "UCRef": "SRH.04.1.130"
+                    },
+                    {
+                        "UCTitre": "Réagir à un refus de mutation ",
+                        "UCRef": "SRH.04.1.140"
+                    },
+                    {
+                        "UCTitre": "Réagir à un refus d'astreinte",
+                        "UCRef": "SRH.04.1.150"
+                    }
+                ]
+            },
+            {
+                "ChapTitre": "Sanctions",
+                "UC": [
+                    {
+                        "UCTitre": "Que faire si un salarié ne se présente pas à un entretien préalable à sanction ?",
+                        "UCRef": "SRH.04.2.010"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié se présente dans l'entreprise alors qu'il est mis à pied ?",
+                        "UCRef": "SRH.04.2.020"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié conteste sa sanction ?",
+                        "UCRef": "SRH.04.2.030"
+                    }
+                ]
+            }
+        ]
+        ,
+        "NbUC" : 18,
+        "ThemIcon" : "assets/thems-illustration/discipline.svg",
+        "Path": "discipline-execution-contrat"
+    },
+    {
+        "Thematique": "Relations collectives",
+        "Chapitre": [
+            {
+                "ChapTitre": "Fonctionnement du CSE",
+                "UC": [
+                    {
+                        "UCTitre": "Comment répondre à une alerte du CSE (danger grave et imminent, alerte éco)",
+                        "UCRef": "SRH.05.1.010"
+                    },
+                    {
+                        "UCTitre": "Que faire face à une suspicion d'abus de mandat par un représentant du personnel (missions, droit de déplacement, droit d'expression…) ",
+                        "UCRef": "SRH.05.1.020"
+                    },
+                    {
+                        "UCTitre": "Que faire si un représentant du personnel ne prévient pas de l'utilisation des heures de délégation",
+                        "UCRef": "SRH.05.1.030"
+                    },
+                    {
+                        "UCTitre": "Que faire lorsqu'une réunion avec les représentants du personnel dégénère?",
+                        "UCRef": "SRH.05.1.040"
+                    }
+                ]
+            },
+            {
+                "ChapTitre": "Dialogue social",
+                "UC": [
+                    {
+                        "UCTitre": "Comment réagir face à la grève d'un ou plusieurs salariés ?",
+                        "UCRef": "SRH.05.2.010"
+                    },
+                    {
+                        "UCTitre": "Que faire si des salariés grévistes bloquent l'accès à l'entreprise ?",
+                        "UCRef": "SRH.05.2.020"
+                    },
+                    {
+                        "UCTitre": "Que faire si des salariés grévistes séquestrent leur manager ?",
+                        "UCRef": "SRH.05.2.030"
+                    }
+                ]
+            }
+        ]
+        ,
+        "NbUC" : 7,
+        "ThemIcon" : "assets/thems-illustration/relations-collectives.svg",
+        "Path": "relations-collectives"
+    },
+    {
+        "Thematique": "Santé et sécurité des salariés",
+        "Chapitre": [
+            {
+                "ChapTitre": "Risques et conditions de travail",
+                "UC": [
+                    {
+                        "UCTitre": "Comment réagir face à une situation de harcèlement moral ou sexuel ?",
+                        "UCRef": "SRH.06.1.010"
+                    },
+                    {
+                        "UCTitre": "Que faire lorsqu'un salarié refuse d'adopter les bonnes pratiques en santé et sécurité au travail ?",
+                        "UCRef": "SRH.06.1.020"
+                    },
+                    {
+                        "UCTitre": "Que faire quand un salarié a un accident de la route avec un véhicule de l'entreprise ?",
+                        "UCRef": "SRH.06.1.030"
+                    },
+                    {
+                        "UCTitre": "Que faire en situation de danger grave et imminent ?",
+                        "UCRef": "SRH.06.1.040"
+                    },
+                    {
+                        "UCTitre": "Que faire quand un salarié fait jouer son droit de retrait ?",
+                        "UCRef": "SRH.06.1.050"
+                    }
+                ]
+            },
+            {
+                "ChapTitre": "Etat de santé",
+                "UC": [
+                    {
+                        "UCTitre": "Que faire en cas de malaise d'un salarié pendant et sur son lieu de travail ?",
+                        "UCRef": "SRH.06.2.010"
+                    },
+                    {
+                        "UCTitre": "Réagir face au refus d'un salarié de se rendre à une visite médicale d'embauche",
+                        "UCRef": "SRH.06.2.020"
+                    },
+                    {
+                        "UCTitre": "Gérer l'aptitude avec réserve d'un salarié",
+                        "UCRef": "SRH.06.2.030"
+                    },
+                    {
+                        "UCTitre": "Que faire si vous recevez la notification du classement en invalidité du salarié ?",
+                        "UCRef": "SRH.06.2.040"
+                    },
+                    {
+                        "UCTitre": "Réagir face à un salarié en burn out ",
+                        "UCRef": "SRH.06.2.050"
+                    }
+                ]
+            }
+        ]
+        ,
+        "NbUC" : 10,
+        "ThemIcon" : "assets/thems-illustration/sante-securite.svg",
+        "Path": "sante-securite"
+    },
+    {
+        "Thematique": "Management et motivation",
+        "Chapitre": [
+            {
+                "ChapTitre": "Management",
+                "UC": [
+                    {
+                        "UCTitre": "Informer les salariés en urgence en cas de circonstances exceptionnelles (agression, risque sanitaire…)",
+                        "UCRef": "SRH.07.1.010"
+                    },
+                    {
+                        "UCTitre": "Comment réagir face à un salarié qui travaille ou s'implique au-delà des exigences ?",
+                        "UCRef": "SRH.07.1.020"
+                    },
+                    {
+                        "UCTitre": "Gérer un entretien professionnel qui s'est mal déroulé",
+                        "UCRef": "SRH.07.1.030"
+                    },
+                    {
+                        "UCTitre": "Comment réagir quand un salarié refuse de se rendre à ses entretiens annuels ?",
+                        "UCRef": "SRH.07.1.040"
+                    }
+                ]
+            },
+            {
+                "ChapTitre": "Motivation",
+                "UC": [
+                    {
+                        "UCTitre": "Comment réagir face à un salarié démotivé ?",
+                        "UCRef": "SRH.07.2.010"
+                    },
+                    {
+                        "UCTitre": "Comment réagir face à des reproches de salariés sur le management d'entreprise (management autoritaire, laxiste, démotivant…)",
+                        "UCRef": "SRH.07.2.020"
+                    }
+                ]
+            }
+        ]
+        ,
+        "NbUC" : 6,
+        "ThemIcon" : "assets/thems-illustration/management-motivation.svg",
+        "Path": "management-motivation"
+    },
+    {
+        "Thematique": "Départ du salarié",
+        "Chapitre": [
+            {
+                "ChapTitre": "Rupture",
+                "UC": [
+                    {
+                        "UCTitre": "Comment réagir à une démission verbale ?",
+                        "UCRef": "SRH.08.1.010"
+                    },
+                    {
+                        "UCTitre": "Refuser une demande de rupture conventionnelle d'un salarié",
+                        "UCRef": "SRH.08.1.020"
+                    },
+                    {
+                        "UCTitre": "Réagir face à une prise d'acte de rupture du contrat de travail",
+                        "UCRef": "SRH.08.1.030"
+                    }
+                ]
+            },
+            {
+                "ChapTitre": "Procédure",
+                "UC": [
+                    {
+                        "UCTitre": "Que faire quand un salarié ne se présente pas à un entretien prélable à licenciement ?",
+                        "UCRef": "SRH.08.2.010"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié fait jouer la faculté de rétractation d'une rupture conventionnelle ?",
+                        "UCRef": "SRH.08.2.020"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié ne retire pas le courrier notifiant la rupture de son contrat de travail ?",
+                        "UCRef": "SRH.08.2.030"
+                    }
+                ]
+            },
+            {
+                "ChapTitre": "Fin du contrat",
+                "UC": [
+                    {
+                        "UCTitre": "Comment réagir si un salarié est absent pendant le préavis de rupture (démission ou licenciement)",
+                        "UCRef": "SRH.08.3.010"
+                    },
+                    {
+                        "UCTitre": "Que faire face à une demande du salarié d'écourter le préavis ?",
+                        "UCRef": "SRH.08.3.020"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié refuse de rendre le véhicule de l'entreprise pendant son préavis ?",
+                        "UCRef": "SRH.08.3.011"
+                    },
+                    {
+                        "UCTitre": "Que faire si un salarié ne vient pas retirer les documents de fin de contrat ?",
+                        "UCRef": "SRH.08.3.021"
+                    }
+                ]
+            }
+        ]
+        ,
+        "NbUC" : 10,
+        "ThemIcon" : "assets/thems-illustration/depart-salarie.svg",
+        "Path": "depart-salarie"
+    }
+]

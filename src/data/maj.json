@@ -1,0 +1,27 @@
+[
+    {
+        "UCTitre": "Gérer le passage à temps partiel thérapeutique d'un salarié : cas de refus de la nouvelle organisation horaire par le salarié",
+        "UCRef": "SRH.02.1.040",
+        "MajStatut": "nouveau"
+    },
+    {
+        "UCTitre":"Que faire si un représentant du personnel ne prévient pas de l'utilisation des heures de délégation",
+        "UCRef": "SRH.05.1.030",
+        "MajStatut":"maj"
+    },
+    {
+        "UCTitre":"Comment réagir à une démission verbale ?",
+        "UCRef": "SRH.08.1.010",
+        "MajStatut":"maj"
+    },
+    {
+        "UCTitre":"Que faire si un salarié a menti sur son CV ?",
+        "UCRef": "SRH.01.2.020",
+        "MajStatut":"nouveau"
+    },
+    {
+        "UCTitre":"Comment répondre à une alerte du CSE (danger grave et imminent, alerte éco)",
+        "UCRef": "SRH.05.1.010",
+        "MajStatut":"maj"
+    }
+]

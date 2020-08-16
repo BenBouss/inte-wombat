@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,700i,900,900i&display=swap');
+@font-face {
+  font-family: 'documentation-ico';
+  src:  url('./fonts/documentation-ico/documentation-ico.eot?2occdo');
+  src:  url('./fonts/documentation-ico/documentation-ico.eot?2occdo#iefix') format('embedded-opentype'),
+    url('./fonts/documentation-ico/documentation-ico.ttf?2occdo') format('truetype'),
+    url('./fonts/documentation-ico/documentation-ico.woff?2occdo') format('woff'),
+    url('./fonts/documentation-ico/documentation-ico.svg?2occdo#documentation-ico') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+/* # Global */
+:root {
+ --text-main-color: #1A202C; /* Gray 900 */
+ --text-second-color: #fff; /* Blanc */
+ --text-third-color: #4A5568; /* Gray 700 */
+ 
+ --bg-main1-color: #fff; /* Blanc */
+ --bg-main2-color: #edf2f7; /* Gray 200 */
+
+ --main-doc-color: #0096e6; /* Couleur de la doc */
+}
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+html {
+  font-size: 16px;
+}
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+h1, .heading-1 {
+  margin: 0 0 1.5rem 0;
+  font-size: 2rem;
+  font-weight: 900;
+}
+h2, .heading-2 {
+  margin: 0 0 1.5rem 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+h3, .heading-3 {
+  margin: 0 0 1.25rem 0;
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+h4, .heading-4 {
+  margin: 0 0 1rem 0;
+  font-size: 1rem;
+  font-weight: 700;
+}
+p {
+  margin: 0 0 1.5rem 0;
+  line-height: 1.4;
+}
+a {
+  text-decoration: none;
+  color: var(--text-main-color);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul > *:first-child, div > .row:first-child {
+  margin-top: 0 !important;
+}
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+  display: none;
+}
+
+/* ## Class */
+.flex-items-center {
+  display: flex;
+  align-items: center;
+}
+.row {
+  margin-bottom: 3rem;
+}
+.row:last-child {
+  margin-bottom: 0;
+}
+button {
+  padding: .25rem .75rem;
+  font-weight: 400;
+  font-size: .75rem;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
