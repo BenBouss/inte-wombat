@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/inte-wombat/static/css/main.c9f413e9.chunk.css",
-    "main.js": "/inte-wombat/static/js/main.01a9d2d3.chunk.js",
-    "main.js.map": "/inte-wombat/static/js/main.01a9d2d3.chunk.js.map",
+    "main.css": "/inte-wombat/static/css/main.73edf85f.chunk.css",
+    "main.js": "/inte-wombat/static/js/main.84360945.chunk.js",
+    "main.js.map": "/inte-wombat/static/js/main.84360945.chunk.js.map",
     "runtime-main.js": "/inte-wombat/static/js/runtime-main.425eeca8.js",
     "runtime-main.js.map": "/inte-wombat/static/js/runtime-main.425eeca8.js.map",
     "static/js/2.054eb48d.chunk.js": "/inte-wombat/static/js/2.054eb48d.chunk.js",
     "static/js/2.054eb48d.chunk.js.map": "/inte-wombat/static/js/2.054eb48d.chunk.js.map",
     "index.html": "/inte-wombat/index.html",
-    "precache-manifest.d26e6259c0fe83f48dc7d57292bc01df.js": "/inte-wombat/precache-manifest.d26e6259c0fe83f48dc7d57292bc01df.js",
+    "precache-manifest.06e7d3b155babdc9a71c516bc2571456.js": "/inte-wombat/precache-manifest.06e7d3b155babdc9a71c516bc2571456.js",
     "service-worker.js": "/inte-wombat/service-worker.js",
-    "static/css/main.c9f413e9.chunk.css.map": "/inte-wombat/static/css/main.c9f413e9.chunk.css.map",
+    "static/css/main.73edf85f.chunk.css.map": "/inte-wombat/static/css/main.73edf85f.chunk.css.map",
     "static/js/2.054eb48d.chunk.js.LICENSE.txt": "/inte-wombat/static/js/2.054eb48d.chunk.js.LICENSE.txt",
     "static/media/back.svg": "/inte-wombat/static/media/back.f65fd8f0.svg",
     "static/media/book.svg": "/inte-wombat/static/media/book.c6a31287.svg",
@@ -45,7 +45,7 @@
   "entrypoints": [
     "static/js/runtime-main.425eeca8.js",
     "static/js/2.054eb48d.chunk.js",
-    "static/css/main.c9f413e9.chunk.css",
-    "static/js/main.01a9d2d3.chunk.js"
+    "static/css/main.73edf85f.chunk.css",
+    "static/js/main.84360945.chunk.js"
   ]
 }
